@@ -1,0 +1,11 @@
+name: AliasChat
+version: '1.0.0'
+main: com.rauruca.aliasChat.AliasChat
+api-version: '1.21'
+authors: [ rauruca ]
+description: 偽名を使用してチャットできるPlugin
+
+commands:
+  aliaschat:
+    usage: /<command> <name> <text>
+    aliases: [ac]
