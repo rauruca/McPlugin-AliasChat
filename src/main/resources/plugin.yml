@@ -7,5 +7,4 @@ description: 偽名を使用してチャットできるPlugin
 
 commands:
   aliaschat:
-    usage: /<command> <name> <text>
     aliases: [ac]
